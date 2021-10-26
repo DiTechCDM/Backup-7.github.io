@@ -9,6 +9,11 @@ body {
     display: none;
 }
 
+@font-face {
+    font-family: ubuntu_Bold;
+    src: url('../Fonts/Ubuntu-Bold.ttf');
+}
+
 /* Hide scrollbar for IE, Edge and Firefox */
 
 * {
